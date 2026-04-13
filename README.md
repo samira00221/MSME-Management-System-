@@ -140,7 +140,7 @@ Prerequisites
 •	npm or yarn
 
 Step 1 — Clone and install
-git clone https://github.com/your-username/msme-supply-chain.git
+git clone https://github.com/samira00221/MSME-Management-System-.git
 cd msme-system
 
 Step 2 — Configure environment variables
